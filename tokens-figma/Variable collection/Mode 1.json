@@ -1,0 +1,186 @@
+{
+  "Light": {
+    "Utility": {
+      "Primary-Light": {
+        "value": "{Blue.Blue-500}",
+        "type": "color"
+      },
+      "Success-Background": {
+        "value": "{Green.Green-500}",
+        "type": "color"
+      }
+    }
+  },
+  "Primary-Orange": {
+    "value": "#fca311",
+    "type": "color"
+  },
+  "Blue Gray 500": {
+    "value": "#94a3b8",
+    "type": "color"
+  },
+  "Blue Gray 200": {
+    "value": "#e2e8f0",
+    "type": "color"
+  },
+  "Blue Gray 300": {
+    "value": "#cbd5e1",
+    "type": "color"
+  },
+  "Blue Gray 400": {
+    "value": "#94a3b8",
+    "type": "color"
+  },
+  "Blue Gray 600": {
+    "value": "#475569",
+    "type": "color"
+  },
+  "Blue Gray 700": {
+    "value": "#334155",
+    "type": "color"
+  },
+  "Blue Gray 800": {
+    "value": "#1e293b",
+    "type": "color"
+  },
+  "Blue Gray 900": {
+    "value": "#0f172a",
+    "type": "color"
+  },
+  "Dark Blue": {
+    "value": "#14213d",
+    "type": "color"
+  },
+  "Blue 50": {
+    "value": "#eff6ff",
+    "type": "color"
+  },
+  "Blue 100": {
+    "value": "#dbeafe",
+    "type": "color"
+  },
+  "Blue 200": {
+    "value": "#bfdbfe",
+    "type": "color"
+  },
+  "Blue 300": {
+    "value": "#93c5fd",
+    "type": "color"
+  },
+  "Blue 400": {
+    "value": "#60a5fa",
+    "type": "color"
+  },
+  "Blue 500": {
+    "value": "#3764a9",
+    "type": "color"
+  },
+  "Blue 600": {
+    "value": "#2563eb",
+    "type": "color"
+  },
+  "Blue 700": {
+    "value": "#1d4ed8",
+    "type": "color"
+  },
+  "Blue 800": {
+    "value": "#1e40af",
+    "type": "color"
+  },
+  "Blue 900": {
+    "value": "#1e3a8a",
+    "type": "color"
+  },
+  "Orange 50": {
+    "value": "#fff7ed",
+    "type": "color"
+  },
+  "Orange 100": {
+    "value": "#ffedd5",
+    "type": "color"
+  },
+  "Orange 200": {
+    "value": "#fed7aa",
+    "type": "color"
+  },
+  "Orange 300": {
+    "value": "#fdba74",
+    "type": "color"
+  },
+  "Orange 400": {
+    "value": "#fb923c",
+    "type": "color"
+  },
+  "Orange 500": {
+    "value": "#f97316",
+    "type": "color"
+  },
+  "Orange 600": {
+    "value": "#ea580c",
+    "type": "color"
+  },
+  "Orange 700": {
+    "value": "#c2410c",
+    "type": "color"
+  },
+  "Orange 800": {
+    "value": "#9a3412",
+    "type": "color"
+  },
+  "Orange 900": {
+    "value": "#7c2d12",
+    "type": "color"
+  },
+  "Beige": {
+    "value": "#e59b83",
+    "type": "color"
+  },
+  "Gray text": {
+    "value": "#64748b",
+    "type": "color"
+  },
+  "Lighter gray text": {
+    "value": "#334155",
+    "type": "color"
+  },
+  "Lightest gray text": {
+    "value": "#64748b",
+    "type": "color"
+  },
+  "Gray outline": {
+    "value": "#cbd5e1",
+    "type": "color"
+  },
+  "Button": {
+    "hover": {
+      "value": "#ffffff4d",
+      "type": "color"
+    },
+    "disabled": {
+      "value": "#ecab87",
+      "type": "color"
+    }
+  },
+  "Yellow-500": {
+    "value": "#eab308",
+    "type": "color"
+  },
+  "Green-500": {
+    "value": "#22c55e",
+    "type": "color"
+  },
+  "Filter fill": {
+    "value": "#f8fafc",
+    "type": "color"
+  },
+  "Filter stroke": {
+    "value": "#e2e8f0",
+    "type": "color"
+  },
+  "Status": {
+    "Invite": {
+      "value": "#ffaa00",
+      "type": "color"
+    }
+  }
+}

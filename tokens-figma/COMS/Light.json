@@ -1,0 +1,200 @@
+{
+  "Schemes": {
+    "Primary": {
+      "value": "#65558f",
+      "type": "color"
+    },
+    "Surface Tint": {
+      "value": "#6750a4",
+      "type": "color"
+    },
+    "On Primary": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "Primary Container": {
+      "value": "#eaddff",
+      "type": "color"
+    },
+    "On Primary Container": {
+      "value": "#4f378b",
+      "type": "color"
+    },
+    "Secondary": {
+      "value": "#625b71",
+      "type": "color"
+    },
+    "On Secondary": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "Secondary Container": {
+      "value": "#e8def8",
+      "type": "color"
+    },
+    "On Secondary Container": {
+      "value": "#4a4458",
+      "type": "color"
+    },
+    "Tertiary": {
+      "value": "#7d5260",
+      "type": "color"
+    },
+    "On Tertiary": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "Tertiary Container": {
+      "value": "#ffd8e4",
+      "type": "color"
+    },
+    "On Tertiary Container": {
+      "value": "#633b48",
+      "type": "color"
+    },
+    "Error": {
+      "value": "#b3261e",
+      "type": "color"
+    },
+    "On Error": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "Error Container": {
+      "value": "#f9dedc",
+      "type": "color"
+    },
+    "On Error Container": {
+      "value": "#8c1d18",
+      "type": "color"
+    },
+    "Background": {
+      "value": "#fef7ff",
+      "type": "color"
+    },
+    "On Background": {
+      "value": "#1d1b20",
+      "type": "color"
+    },
+    "Surface": {
+      "value": "#fef7ff",
+      "type": "color"
+    },
+    "On Surface": {
+      "value": "#1d1b20",
+      "type": "color"
+    },
+    "Surface Variant": {
+      "value": "#e7e0ec",
+      "type": "color"
+    },
+    "On Surface Variant": {
+      "value": "#49454f",
+      "type": "color"
+    },
+    "Outline": {
+      "value": "#79747e",
+      "type": "color"
+    },
+    "Outline Variant": {
+      "value": "#cac4d0",
+      "type": "color"
+    },
+    "Shadow": {
+      "value": "#000000",
+      "type": "color"
+    },
+    "Scrim": {
+      "value": "#000000",
+      "type": "color"
+    },
+    "Inverse Surface": {
+      "value": "#322f35",
+      "type": "color"
+    },
+    "Inverse On Surface": {
+      "value": "#f5eff7",
+      "type": "color"
+    },
+    "Inverse Primary": {
+      "value": "#d0bcff",
+      "type": "color"
+    },
+    "Primary Fixed": {
+      "value": "#eaddff",
+      "type": "color"
+    },
+    "On Primary Fixed": {
+      "value": "#21005d",
+      "type": "color"
+    },
+    "Primary Fixed Dim": {
+      "value": "#d0bcff",
+      "type": "color"
+    },
+    "On Primary Fixed Variant": {
+      "value": "#4f378b",
+      "type": "color"
+    },
+    "Secondary Fixed": {
+      "value": "#e8def8",
+      "type": "color"
+    },
+    "On Secondary Fixed": {
+      "value": "#1d192b",
+      "type": "color"
+    },
+    "Secondary Fixed Dim": {
+      "value": "#ccc2dc",
+      "type": "color"
+    },
+    "On Secondary Fixed Variant": {
+      "value": "#4a4458",
+      "type": "color"
+    },
+    "Tertiary Fixed": {
+      "value": "#ffd8e4",
+      "type": "color"
+    },
+    "On Tertiary Fixed": {
+      "value": "#31111d",
+      "type": "color"
+    },
+    "Tertiary Fixed Dim": {
+      "value": "#efb8c8",
+      "type": "color"
+    },
+    "On Tertiary Fixed Variant": {
+      "value": "#633b48",
+      "type": "color"
+    },
+    "Surface Dim": {
+      "value": "#ded8e1",
+      "type": "color"
+    },
+    "Surface Bright": {
+      "value": "#fef7ff",
+      "type": "color"
+    },
+    "Surface Container Lowest": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "Surface Container Low": {
+      "value": "#f7f2fa",
+      "type": "color"
+    },
+    "Surface Container": {
+      "value": "#f3edf7",
+      "type": "color"
+    },
+    "Surface Container High": {
+      "value": "#ece6f0",
+      "type": "color"
+    },
+    "Surface Container Highest": {
+      "value": "#e6e0e9",
+      "type": "color"
+    }
+  }
+}

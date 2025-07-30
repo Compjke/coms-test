@@ -1,8 +1,8 @@
-import Container from '@mui/material/Container';
+import { Box } from '@mui/material';
+
 import { styled } from '@mui/material/styles';
 
-export const MainContainer = styled(Container)(({ theme }) => ({
-  padding: theme.spacing(0, 5), // 0px top/bottom, 40px left/right
+export const MainContainer = styled(Box)(({ theme }) => ({
   width: '100%',
   margin: '0 auto',
   display: 'flex',

@@ -4,7 +4,7 @@ import { MainContainer } from './MainContainer';
 
 export default function MainLayout() {
   return (
-    <MainContainer maxWidth='xl'>
+    <MainContainer>
       <header>Header</header>
       <Box sx={{ flex: 1 }}>
         <main>
